@@ -6,5 +6,5 @@ This is just for testing purposes
 # BUGS
 Chromium Browsers Scaling issues
 
-"Fixes"
+## "Fixes"
 --ozone-platform=wayland
