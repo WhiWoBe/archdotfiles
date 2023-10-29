@@ -7,4 +7,4 @@ This is just for testing purposes
 Chromium Browsers Scaling issues
 
 "Fixes"
---enable-features=UseOzonePlatform
+--ozone-platform=wayland
