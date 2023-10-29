@@ -8,4 +8,5 @@ Chromium Browsers Scaling issues
 
 ## Fix
 set hyprland.conf monitor scaling from auto to 1
-monitor=name,resolution,position,scale
+
+"monitor=name,resolution,position,scale"
